@@ -15,8 +15,8 @@ Outcome: This mini-project yielded valuable insights into the sentiment of mobil
 
 Skills Demonstrated:
 
-Python programming
-Data manipulation and analysis with pandas
-Text preprocessing and sentiment analysis using textblob
-Interactive visualization with plotly
+*Python programming
+*Data manipulation and analysis with pandas
+*Text preprocessing and sentiment analysis using textblob
+*Interactive visualization with plotly
 Visual representation of textual data using wordcloud
